@@ -1,2 +1,2 @@
 # GaltonMachineSimulator
-Configurable Galton Machine Simulator with three risk levels
+Configurable Galton Machine Simulator with 3 risk levels
